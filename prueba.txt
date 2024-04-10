@@ -2,4 +2,4 @@ hola, este es el documento de prueba para las notificaciones a Slack cuando se p
 
 agregamos esto
 
-también agregaré esto
+ya no 
